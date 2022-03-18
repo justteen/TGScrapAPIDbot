@@ -10,8 +10,8 @@ Please treat your APP ID and API HASH with care.
 
 ## [@TGScrapAPIDbot](https://telegram.dog/TGScrapAPIDbot)
 
-### this is bot scrap APP_ID &
- API_HASH from my.telegram.com to make all easly get value inside Telegram.
+### this is bot scrap 
+APP_ID & API_HASH from my.telegram.com to make all easly get value inside Telegram.
 
 ## installing
 
